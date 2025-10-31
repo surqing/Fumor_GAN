@@ -18,7 +18,7 @@ from Util import *
 vocabulary_size = 5000
 hidden_dim = 100
 Nclass = 2
-Nepoch = 201  # main epoch
+Nepoch = 10  # main epoch
 Nepoch_G = 51  # pre-Train G
 Nepoch_D = 101  # pre-Train D
 
